@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
+// CourseList is the component for showing list of courses
 function CourseList(props) {
   return (
     <table className="table">

@@ -9,6 +9,7 @@ import ManageCoursePage from "./ManageCoursePage";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+// App is the main function of the program
 function App() {
   return (
     <div className="container-fluid">
